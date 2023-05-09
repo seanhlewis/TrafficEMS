@@ -6,7 +6,7 @@
 
 </div>
 
-[TrafficEMS](https://auditoryar.com) is a framework developed for EMS routing optimization based on current traffic conditions. It provides a basis for analyzing real-time traffic conditions with ML traffic analysis using live traffic camera data as well as a GIS routing app to calculate the optimal path for EMS vehicles. This framework yields a definitive starting point for further research in this area.
+[TrafficEMS](https://trafficems.com) is a framework developed for EMS routing optimization based on current traffic conditions. It provides a basis for analyzing real-time traffic conditions with ML traffic analysis using live traffic camera data as well as a GIS routing app to calculate the optimal path for EMS vehicles. This framework yields a definitive starting point for further research in this area.
 
 <div align="center">
 
