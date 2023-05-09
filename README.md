@@ -12,6 +12,6 @@
 
 </div>
 
-# Open For Collaboration
+# Open for collaboration
 
 This framework is the beginning to a large-scale traffic analysis project which could effectively route EMS vehicles along an optimal path. Please reach out [here](mailto:seanhlewis@utexas.edu) if you would like to work together to further this project.
